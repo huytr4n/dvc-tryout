@@ -1,0 +1,4 @@
+[core]
+cloud = AWS
+[AWS]
+StoragePath = dvc-tryout
