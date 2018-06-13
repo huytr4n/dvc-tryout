@@ -1,9 +1,0 @@
-cmd: python code/transform.py
-deps:
-- md5: 4ac565de58d26037a3b9808912dafe24
-  path: data/input.csv
-md5: 940f89a9f4e7159a9e673e86fbc8ccfb
-outs:
-- cache: true
-  md5: 57189852611fea9e1fa6638be055ce74.dir
-  path: out
